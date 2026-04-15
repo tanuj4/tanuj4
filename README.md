@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tanuj 👋
 
-<!--
-**tanuj4/tanuj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud and Backend Engineer with experience in building and deploying scalable applications using Python and AWS.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Build backend services and REST APIs using Python
+- Deploy applications on AWS using Docker and CI/CD pipelines
+- Work on automation and improving system reliability
+- Debug and optimize real-world systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python
+- Backend: FastAPI
+- Cloud: AWS (ECS, S3, RDS)
+- Tools: Docker, GitHub Actions
+- Database: PostgreSQL
+- Monitoring: Prometheus, Grafana
+
+## 📌 Projects
+- Real-time audio processing system using AWS Transcribe & Polly
+- Backend API services with Docker deployment
+- Cloud-based applications with CI/CD pipelines
+
+## 📫 Contact
+- GitHub: https://github.com/tanuj4
