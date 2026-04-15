@@ -1,25 +1,25 @@
 # Hi, I'm Tanuj 👋
 
-I'm a Cloud and Backend Engineer with experience in building and deploying scalable applications using Python and AWS.
+I'm a Cloud and Backend Engineer with experience in building and deploying applications using Python, Node.js, and modern web technologies.
 
 ## 🚀 What I do
-- Build backend services and REST APIs using Python
-- Deploy applications on AWS using Docker and CI/CD pipelines
-- Work on automation and improving system reliability
+- Build backend systems and APIs using Python and Node.js
+- Work with frontend technologies like React and Astro
+- Deploy and manage applications on AWS and Cloudflare
+- Set up CI/CD pipelines for automated deployments
+- Work with DNS and domain configurations for web applications
+- Improve system reliability through monitoring and automation
 - Debug and optimize real-world systems
 
 ## 🛠️ Tech Stack
-- Languages: Python
-- Backend: FastAPI
-- Cloud: AWS (ECS, S3, RDS)
-- Tools: Docker, GitHub Actions
+- Languages: Python, JavaScript, Java, SQL
+- Backend: FastAPI, Node.js
+- Frontend: React, Astro, HTML, CSS, JavaScript
+- Cloud: AWS (ECS, S3, RDS), Cloudflare
+- DevOps/Tools: Docker, GitHub Actions
+- Networking: DNS, domain management
 - Database: PostgreSQL
 - Monitoring: Prometheus, Grafana
-
-## 📌 Projects
-- Real-time audio processing system using AWS Transcribe & Polly
-- Backend API services with Docker deployment
-- Cloud-based applications with CI/CD pipelines
 
 ## 📫 Contact
 - GitHub: https://github.com/tanuj4
